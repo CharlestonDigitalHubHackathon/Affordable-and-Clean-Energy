@@ -11,9 +11,11 @@ Curious about the growth of wind energy? The extent to which the decline of coal
 
 The Energy Statistics Database contains comprehensive energy statistics on the production, trade, conversion and final consumption of primary and secondary; conventional and non-conventional; and new and renewable sources of energy.
 
-## Dataset Download
-
-We will upload the dataset to be used during the challenge on Friday, February 22nd.
+## Dataset Download and Information
+| Link                              | Description |
+| --------------------------------- | ----------- |
+| [Dataset and DB Backups] | This links you to a Google Drive where all of the data CSVs have been placed along with a MySQL and PostgresSQL backup. |
+| [Energy Questionnaire Guidelines] | A PDF that goes into detail about the dataset and should be able to answer any questions that you may have. |
 
 ## Team Repository Links
 [ACE-C1]  
@@ -38,3 +40,5 @@ We will upload the dataset to be used during the challenge on Friday, February 2
 [ACE-P2]: https://github.com/CharlestonDigitalHubHackathon/ACE-P2
 [ACE-P3]: https://github.com/CharlestonDigitalHubHackathon/ACE-P3
 [Affordable and Clean Energy]: https://www.un.org/sustainabledevelopment/energy/
+[Dataset and DB Backups]: https://drive.google.com/drive/folders/1zNBOuQXrFjzltaUqNZo4Ga7OzmYxfjey?usp=sharing
+[Energy Questionnaire Guidelines]: https://github.com/CharlestonDigitalHubHackathon/Affordable-and-Clean-Energy/blob/master/Energy-Questionnaire-Guidelines.pdf
