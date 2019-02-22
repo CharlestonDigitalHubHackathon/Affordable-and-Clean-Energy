@@ -15,5 +15,26 @@ The Energy Statistics Database contains comprehensive energy statistics on the p
 
 We will upload the dataset to be used during the challenge on Friday, February 22nd.
 
+## Team Repository Links
+[ACE-C1]  
+[ACE-C2]  
+[ACE-C3]  
+[ACE-C4]  
+[ACE-C5]  
+[ACE-C6]  
+[ACE-C7]  
+[ACE-P1]  
+[ACE-P2]  
+[ACE-P3]  
 
+[ACE-C1]: https://github.com/CharlestonDigitalHubHackathon/ACE-C1
+[ACE-C2]: https://github.com/CharlestonDigitalHubHackathon/ACE-C2
+[ACE-C3]: https://github.com/CharlestonDigitalHubHackathon/ACE-C3
+[ACE-C4]: https://github.com/CharlestonDigitalHubHackathon/ACE-C4
+[ACE-C5]: https://github.com/CharlestonDigitalHubHackathon/ACE-C5
+[ACE-C6]: https://github.com/CharlestonDigitalHubHackathon/ACE-C6
+[ACE-C7]: https://github.com/CharlestonDigitalHubHackathon/ACE-C7
+[ACE-P1]: https://github.com/CharlestonDigitalHubHackathon/ACE-P1
+[ACE-P2]: https://github.com/CharlestonDigitalHubHackathon/ACE-P2
+[ACE-P3]: https://github.com/CharlestonDigitalHubHackathon/ACE-P3
 [Affordable and Clean Energy]: https://www.un.org/sustainabledevelopment/energy/
